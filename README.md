@@ -1,1 +1,1 @@
-# AI-ML-Project-Movie-Interest-Predictor
+# Movie_Interest_Predictor
